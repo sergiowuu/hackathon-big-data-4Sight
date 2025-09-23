@@ -1,10 +1,10 @@
-# Hackathon de Previsão de Vendas - Reposição Inteligente de Estoque
+# Hackathon de Previsão de Vendas - Reposição de Estoque
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg) ![Pandas](https://img.shields.io/badge/Pandas-%26%20Polars-yellow.svg) ![LightGBM](https://img.shields.io/badge/LightGBM-4.0%2B-green.svg) ![Optuna](https://img.shields.io/badge/Optuna-3.0%2B-purple.svg)
 
 ## 📖 Visão Geral
 
-Este repositório contém a solução desenvolvida para um Hackathon de Ciência de Dados e IA. O objetivo central é criar um modelo de previsão de vendas (*forecast*) para otimizar a reposição de estoque no varejo. O código analisa o histórico de vendas de 2022 para prever a demanda semanal por Ponto de Venda (PDV) e produto (SKU) para as cinco semanas de janeiro de 2023.
+Este repositório contém a solução desenvolvida para o Hackathon Forecast da Big Data. O objetivo central é criar um modelo de previsão de vendas (*forecast*) para otimizar a reposição de estoque no varejo. O código analisa o histórico de vendas de 2022 para prever a demanda semanal por Ponto de Venda (PDV) e produto (SKU) para as cinco semanas de janeiro de 2023.
 
 O modelo utiliza a técnica de **Gradient Boosting** com a biblioteca **LightGBM**, otimizada com **Optuna** para encontrar os melhores hiperparâmetros, garantindo alta performance e eficiência computacional.
 
