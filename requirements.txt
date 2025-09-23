@@ -1,5 +1,8 @@
 pandas
+polars
+pyarrow
 numpy
 scikit-learn
 lightgbm
-pyarrow
+optuna
+optuna-integration
